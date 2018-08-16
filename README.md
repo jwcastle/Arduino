@@ -7,6 +7,7 @@ language. Arduino can be used to develop stand-alone interactive objects or
 can be connected to software on your computer (e.g. Flash, Processing and MaxMSP).
 The boards can be assembled by hand or purchased preassembled; the open-source
 IDE can be downloaded for free at https://www.arduino.cc/en/Main/Software
+http://www.cprtestcenter.com
 
 * For more information, see the website at: https://www.arduino.cc/
 or the forums at: https://forum.arduino.cc/  
